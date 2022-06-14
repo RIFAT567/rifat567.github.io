@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/RIFAT567/rifat567.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<html lang="en">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
 
-### Markdown
+    <meta charset="UTF-8">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-```markdown
-Syntax highlighted code block
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-# Header 1
-## Header 2
-### Header 3
+    <title>spiderman no way home </title>
 
-- Bulleted
-- List
+  <style>
 
-1. Numbered
-2. List
+    video {
 
-**Bold** and _Italic_ and `Code` text
+      width: 500px;
 
-[Link](url) and ![Image](src)
-```
+      height: 340px;
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    }
 
-### Jekyll Themes
+  </style>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RIFAT567/rifat567.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</head>
 
-### Support or Contact
+<body>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <video src="https://b-g-eu-11.feetcdn.com:2223/v2-hls-playback/f7bfe9b783771cf200cbe3585fed8e450436a88260718c82e0a84b8fe163dfc51ad868bd40a8b6d149ba270a5c5c8ac8de7f2799795009fb3579d483544c27f57ec81a27428743e2ed7f0eb635343927dc9b57e8bab157dd0f7135c0fac6628f04d8fc4765eeceec1ecab2cd1f40aa4fd7c3613ac78a77bfccc1b4b074290177342dcc7c76669d7c4e9e6003dd46d2afc7123ecc468d5e11bbdcc13b776f9cace5720a89ba2edc285a0b3439983e20ad/playlist.m3u8https://b-g-eu-11.feetcdn.com:2223/v2-hls-playback/f7bfe9b783771cf200cbe3585fed8e450436a88260718c82e0a84b8fe163dfc51ad868bd40a8b6d149ba270a5c5c8ac8de7f2799795009fb3579d483544c27f57ec81a27428743e2ed7f0eb635343927dc9b57e8bab157dd0f7135c0fac6628f04d8fc4765eeceec1ecab2cd1f40aa4fd7c3613ac78a77bfccc1b4b074290177342dcc7c76669d7c4e9e6003dd46d2afc7123ecc468d5e11bbdcc13b776f9cace5720a89ba2edc285a0b3439983e20ad/playlist.m3u8" controls></video> 
+
+</body>
+
+</html>
